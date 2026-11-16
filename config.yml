@@ -1,8 +1,3 @@
-repo_url: https://LEXNORTHS.github.io/fdroid-repo/fdroid/repo
-repo_name: LEXNORTHS Repo
-repo_icon: repo/icon.png
-repo_description: Repo privado ACC LEXNORTHS v7.0 - Moto G72
+repo_url: https://lexnorths-commits.github.io/fdroid-repo/repo
+repo_name: Lex Repo
 repo_keyalias: localhost
-keydname: CN=localhost, OU=F-Droid
-keystorepass: Pq4wMeUAsAvm3WiHcZtHULA9xfRrQAApzPIe9PmMqhg=
-keypass: Pq4wMeUAsAvm3WiHcZtHULA9xfRrQAApzPIe9PmMqhg=

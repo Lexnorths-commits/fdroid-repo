@@ -1,1 +1,25 @@
-{"antiFeatures":{},"apksigner":"/data/data/com.termux/files/usr/bin/apksigner","archivePolicy0":[],"commandLine":["/data/data/com.termux/files/usr/bin/fdroid update"],"disabled":[],"endTimestamp":1794819884129,"failedBuilds":{},"fdroiddata":{"commitId":"de9fcf88566ad72f78e599cbdb453984ac995e38","isDirty":true,"modifiedFiles":["config.yml","repo/SaveTools-v2.6.apk","repo/icon.png","repo/index.xml"],"untrackedFiles":["archive/SaveTools-v2.6.apk","config.py","keystore.p12","metadata/c980ff01f897bd30ed55b071326abee1adbe663423ffdde8a9f80b01884a07eb.yml","metadata/com.topjohnwu.magisk.yml","metadata/org.fdroid.fdroid.yml","repo/icons/icon.png","repo/icons/repo/icon.png","repo/index-v1.jar","repo/index-v1.json","repo/index-v2.json","repo/index.css","repo/index.html","repo/index.jar","repo/index.png","repo/status/running.json","repo/status/update.json","tmp/apkcache.json","tmp/repo_1794819272000.json","tmp/repo_1794819568000.json","tmp/repo_1794819677000.json"]},"jarsigner":"/data/data/com.termux/files/usr/bin/jarsigner","keytool":"/data/data/com.termux/files/usr/bin/keytool","needsUpdate":["c980ff01f897bd30ed55b071326abee1adbe663423ffdde8a9f80b01884a07eb","com.topjohnwu.magisk","org.fdroid.fdroid"],"noPackages":["c980ff01f897bd30ed55b071326abee1adbe663423ffdde8a9f80b01884a07eb","com.topjohnwu.magisk","org.fdroid.fdroid"],"noUpdateCheck":["c980ff01f897bd30ed55b071326abee1adbe663423ffdde8a9f80b01884a07eb","com.topjohnwu.magisk","org.fdroid.fdroid"],"stages":{"delete_disabled_builds":1794819876704,"index.make repo":1794819876710,"prepare_apps repo":1794819876707,"process_apks":1794819876704,"read_added_date_from_all_apks":1794819876707,"remove_apks":1794819876706,"scan_repo_files":1794819876705},"startTimestamp":1794841476000,"subcommand":"update"}
+{
+  "commandLine": [
+    "/data/data/com.termux/files/usr/bin/fdroid update"
+  ],
+  "fdroiddata": {
+    "commitId": "f6b780036f618ba74da528b11f06a560d74f9356",
+    "isDirty": true,
+    "modifiedFiles": [
+      "config.yml",
+      "repo/icons/repo/icon.png"
+    ],
+    "untrackedFiles": []
+  },
+  "stages": {
+    "delete_disabled_builds": 1794820597343,
+    "index.make repo": 1794820597349,
+    "prepare_apps repo": 1794820597347,
+    "process_apks": 1794820597344,
+    "read_added_date_from_all_apks": 1794820597346,
+    "remove_apks": 1794820597346,
+    "scan_repo_files": 1794820597345
+  },
+  "startTimestamp": 1794842197000,
+  "subcommand": "update"
+}
