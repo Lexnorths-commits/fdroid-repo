@@ -1,3 +1,6 @@
 repo_url: https://lexnorths-commits.github.io/fdroid-repo/repo
 repo_name: Lex Repo
 repo_keyalias: localhost
+keydname: CN=localhost, OU=F-Droid
+keystorepass: 8Z2E44qe3+AaEy/xktlzz341CR0NM6QZcEQ8sRUtF2M=
+keypass: 8Z2E44qe3+AaEy/xktlzz341CR0NM6QZcEQ8sRUtF2M=
